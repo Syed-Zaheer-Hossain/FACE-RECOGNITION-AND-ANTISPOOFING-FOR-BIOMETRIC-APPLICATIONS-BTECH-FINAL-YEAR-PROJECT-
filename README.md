@@ -23,7 +23,7 @@ This work is supported by a **self-made dataset** and has been **published as a 
 **FRAD: A Face Recognition and Anti-spoofing Database for Biometric Applications**
 
 - **DOI:** https://doi.org/10.1007/978-981-96-7614-9_32  
-- **Publisher:** Springer (Lecture Notes in Computer Science)  
+- **Publisher:** Springer (Lecture Notes in Networks and Systems (LNNS,volume 1358))
 - **Authors:**  
   Saiyed Umer, Surjit Mandal, Syed Zaheer Hossain, Anirban Guha, Ranjeet Kumar Rout  
 
